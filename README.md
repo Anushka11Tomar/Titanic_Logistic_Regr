@@ -1,4 +1,5 @@
 Titanic analysis 
+
 Analyses on titanic data for the survival of passengers.
 Objective of analysis: Objective is to know how many passengers were saved and on what basis as on first preference was childrens then womens and more.So, on 
 the basis of certain basis passengers were saved and through this analysis we can know total number of passengers survived .
